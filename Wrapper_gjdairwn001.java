@@ -33,7 +33,6 @@ import com.qunar.qfwrapper.util.QFPostMethod;
 /**
  * 
  * 美国西南航空
- *@Team 
  *@version   V1.0 
  *@date  2014-7-7 下午5:19:20
  */
